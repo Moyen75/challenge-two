@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-node-with-express",
-	"version": "0.1.0",
+	"version": "1.1.0",
 	"dependencies": {
 		"@heroku/buildpack-registry": "^1.0.1",
 		"async-file": "^2.0.2",
